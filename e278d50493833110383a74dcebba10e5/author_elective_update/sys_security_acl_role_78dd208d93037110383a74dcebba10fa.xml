@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 17:19:02</sys_created_on>
+        <sys_id>78dd208d93037110383a74dcebba10fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1257420_gest_o_0_produto.Supervisores_Roles</sys_name>
+        <sys_package display_value="Gestão de inventário" source="x_1257420_gest_o_0">e278d50493833110383a74dcebba10e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de inventário">e278d50493833110383a74dcebba10e5</sys_scope>
+        <sys_security_acl display_value="x_1257420_gest_o_0_produto">24dd208d93037110383a74dcebba10ae</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_78dd208d93037110383a74dcebba10fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 17:19:02</sys_updated_on>
+        <sys_user_role display_value="Supervisores_Roles" name="Supervisores_Roles">7d1ae84993037110383a74dcebba10a7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de inventário">e278d50493833110383a74dcebba10e5</application>
+        <file_path/>
+        <instance_id>45b7be121ba63510c84543f4bd4bcb32</instance_id>
+        <instance_name>dev216762</instance_name>
+        <name>sys_security_acl_role_78dd208d93037110383a74dcebba10fa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-09 17:19:02</sys_created_on><sys_id>78dd208d93037110383a74dcebba10fa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1257420_gest_o_0_produto.Supervisores_Roles</sys_name><sys_package display_value="Gestão de inventário" source="x_1257420_gest_o_0">e278d50493833110383a74dcebba10e5</sys_package><sys_policy/><sys_scope display_value="Gestão de inventário">e278d50493833110383a74dcebba10e5</sys_scope><sys_security_acl display_value="x_1257420_gest_o_0_produto">24dd208d93037110383a74dcebba10ae</sys_security_acl><sys_update_name>sys_security_acl_role_78dd208d93037110383a74dcebba10fa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-09 17:19:02</sys_updated_on><sys_user_role display_value="Supervisores_Roles" name="Supervisores_Roles">7d1ae84993037110383a74dcebba10a7</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1678371351</payload_hash>
+        <record_name>x_1257420_gest_o_0_produto.Supervisores_Roles</record_name>
+        <reverted_from/>
+        <source>ee78d50493833110383a74dcebba10e6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 17:19:02</sys_created_on>
+        <sys_id>34dd208d93037110383a74dcebba10fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c4f96f3bf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 17:19:02</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>78dd208d9c03711087acb24a0c76c7fc</update_guid>
+        <update_guid_history>78dd208d9c03711087acb24a0c76c7fc:1678371351</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1257420_gest_o_0_produto.Supervisores_Roles">20b2924d93877110383a74dcebba10ce</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 00:39:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>228f112e4e8f4c0eb3c8b48648f8ffc9</sys_id>
+        <sys_metadata>78dd208d93037110383a74dcebba10fa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1257420_gest_o_0_produto.Supervisores_Roles</sys_name>
+        <sys_package display_value="Gestão de inventário" source="x_1257420_gest_o_0">e278d50493833110383a74dcebba10e5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de inventário">e278d50493833110383a74dcebba10e5</sys_scope>
+        <sys_scope_delete display_value="">1be9de64abb64d88b48a4d0b7f2525c4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_78dd208d93037110383a74dcebba10fa</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_78dd208d93037110383a74dcebba10fa">34dd208d93037110383a74dcebba10fd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 00:39:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

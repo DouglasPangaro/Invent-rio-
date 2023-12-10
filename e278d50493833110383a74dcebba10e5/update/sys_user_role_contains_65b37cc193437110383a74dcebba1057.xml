@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="itil" name="itil">282bf1fac6112285017366cb5f867469</contains>
+        <role display_value="Analista_Roles" name="Analista_Roles">923a684993037110383a74dcebba10aa</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 17:44:44</sys_created_on>
+        <sys_id>65b37cc193437110383a74dcebba1057</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>itil.Analista_Roles</sys_name>
+        <sys_package display_value="Gestão de inventário" source="x_1257420_gest_o_0">e278d50493833110383a74dcebba10e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de inventário">e278d50493833110383a74dcebba10e5</sys_scope>
+        <sys_update_name>sys_user_role_contains_65b37cc193437110383a74dcebba1057</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 17:44:44</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

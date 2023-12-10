@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9e8ed18893833110383a74dcebba1031" label="Produto " max_length="40" name="x_1257420_gest_o_0_produto" type="collection">
+        <element label="image" max_length="40" name="image" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Iten" max_length="40" name="iten" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Quantidade" max_length="40" name="quantidade" type="integer"/>
+    </element>
+</database>
